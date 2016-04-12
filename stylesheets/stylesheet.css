@@ -243,3 +243,18 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+/* My Custom Header! */
+.page-header {
+  color: #fff;
+  text-align: bottom center;
+  background-color: #6ae2b3;
+  background-image: linear-gradient(120deg, #FFA85A, #159957, #f4a62b, #ffa85a; }
+
+.main-content h3{
+  color:#1c7ff2;
+}
+img {
+  max-height :550px;
+  
+}
